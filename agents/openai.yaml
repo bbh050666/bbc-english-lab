@@ -1,0 +1,4 @@
+interface:
+  display_name: "BBC English Lab 英语精学"
+  short_description: "BBC 官方选材、精听精读、观点输出、逐题批改与长期学习档案"
+  default_prompt: "请用 $bbc-english-lab 开始一期 BBC 英语精学，优先最近7天的社会学、心理学、AI或教育主题，先布置练习，等我作答后再批改并更新学习档案。"
