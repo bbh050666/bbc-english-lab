@@ -31,7 +31,7 @@ bbc-english-lab/
 
 解压 ZIP，把完整 `bbc-english-lab` 文件夹放进当前项目的 `.agents/skills/`，或个人目录 `~/.agents/skills/`；已有同名文件夹时先比较，不直接覆盖。目录与技能发现方式见 [OpenAI 官方技能文档](https://learn.chatgpt.com/docs/build-skills)。若技能列表未更新，重新启动再查看。
 
-也可以从 [GitHub 仓库](https://github.com/bbh050666/bbc-english-lab) 使用 **Code → Download ZIP** 下载，解压后按上面的目录放置。私有仓库需要先登录有访问权限的账号。
+也可以从[公开 GitHub 仓库](https://github.com/bbh050666/bbc-english-lab)使用 **Code → Download ZIP**，或[直接下载 ZIP](https://github.com/bbh050666/bbc-english-lab/archive/refs/heads/main.zip)。如果解压后的文件夹名为 `bbc-english-lab-main`，先改名为 `bbc-english-lab`，再按上面的目录放置。
 
 下载或克隆仓库不会自动完成全局安装。Skill 为文字指令，无需额外运行脚本或 API key。新课实时选材需要可用的浏览／检索能力；更新文件需要可用的文件工具或资料库连接。
 
